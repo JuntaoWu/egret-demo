@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="colorListComponentSkin" width="400" height="300" xmlns:e="http://ns.egret.com/eui">
+    <e:Scroller  height="540" width="450" x="14" y="184">
+        <e:viewport>
+            <e:List id="listGoods" anchorOffsetX="0" width="394" anchorOffsetY="0" height="299" x="3" y="120">
+                <e:layout>
+                    <e:VerticalLayout />
+                </e:layout>
+            </e:List>
+        </e:viewport>
+    </e:Scroller>
+</e:Skin>
